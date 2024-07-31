@@ -1,0 +1,3 @@
+﻿  Netflix.cpp
+C:\Users\Hashii\source\repos\IMDB_Project\IMDB_Project\Netflix.cpp(102,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  IMDB_Project.vcxproj -> C:\Users\Hashii\source\repos\IMDB_Project\x64\Debug\IMDB_Project.exe
